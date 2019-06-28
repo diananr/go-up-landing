@@ -163,7 +163,7 @@
 
 .hero_section_image{
     order: 2;
-    background-image: url('../assets/img/go-up-hero.png');
+    background-image: url('../img/go-up-hero.png');
     background-position: center;
     background-size: cover;
     height: 100vh;
